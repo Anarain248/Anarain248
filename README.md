@@ -1,6 +1,6 @@
 ### Hi there I'm Arjun Narain 👋
 
-I'm a software enginner that has a passion for learning new technologies and growing constantly. I graduated from an intensive 6 month Full Stack Software Engineering Bootcamp called App Academy. I enjoy being creative and building unique web applications. I have experience building building full stack web applications using JavaScript, React.js, Redux, Python, Flask, Express.js, Sequelize, SQLAlchemy, HTML, and CSS.
+I'm a software enginner that has a passion for learning new technologies and growing constantly. I graduated from an intensive 6 month Full Stack Software Engineering Bootcamp that covers JavaScript and Python called App Academy. I enjoy being creative and building unique web applications. I have experience building building full stack web applications using JavaScript, React.js, Redux, Python, Flask, Express.js, Sequelize, SQLAlchemy, HTML, and CSS.
 
 If you have any additional questions, I would love to hear from you! 
 
