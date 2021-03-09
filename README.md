@@ -9,5 +9,3 @@ If you have any additional questions, I would love to hear from you!
 - 🌱 Skills: Javascript, Python, React, Redux, Express.js, Sequelize, Flask, SQLAlchemy, Pug.js, CSS, HTML
 - ⚡ Fun fact: I competed in a local Body Building competition and placed top 5 in 2017! 
 
-
-[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anarain248)](https://github.com/anuraghazra/github-readme-stats)
