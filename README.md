@@ -5,7 +5,7 @@ I'm a software enginner that has a passion for learning new technologies and gro
 If you have any additional questions, I would love to hear from you! 
 
 - 💬 Ask me anything, I'm always willing to help!
-- 🔭 CHeckout my porfolio site here: https://anarain248.github.io/
+- 🔭 Checkout my porfolio site here: https://anarain248.github.io/
 - 📫 How to reach me: https://www.linkedin.com/in/arjun-narain-5a5519101/
 - 🌱 Skills: React, Redux, Express.js, Sequelize, Flask, SQLAlchemy, Pug.js, CSS, HTML.
 - 🥅 Languages learned: JavaScript and Python.
